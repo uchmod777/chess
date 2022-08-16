@@ -1,0 +1,50 @@
+body {
+    background-color: #003865;
+}
+
+table {
+    border: 0;
+    border-spacing: 0;
+    padding: 0;
+}
+
+
+#board {
+    border: 1px solid black;
+    margin: auto;
+}
+
+.rank-number {
+    padding: 0 5px;
+    background-color: #EF5B0C;
+}
+
+.empty-file {
+    background-color: #EF5B0C;
+}
+
+.file-letter {
+    text-align: center;
+    background-color: #EF5B0C;
+}
+
+.light-square {
+    text-align: center;
+    background-color: #D4F6CC;
+    border: none;
+    width: 100px;
+    height: 100px;
+}
+
+.piece-img {
+    width: 85px;
+    height: 85px;
+}
+
+.dark-square {
+    text-align: center;
+    background-color: #3CCF4E;
+    border: none;
+    width: 100px;
+    height: 100px;
+}
